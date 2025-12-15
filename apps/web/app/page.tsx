@@ -18,6 +18,8 @@ export default async function Home() {
       } */}
 
       <div> Hello, World! from main branch </div>
+
+      <div> up dated on dev branch </div>
     </>
   );
 }
